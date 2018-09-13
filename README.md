@@ -1,9 +1,9 @@
 # MiniBlockChain_Codecademy
 
-## Block.py
+## block.py
 This file consists of code related to a block in a blockchain
 
-## Blockchain.py
+## blockchain.py
 This file consists of code relating to a the blockchain network
 
 ## script.py
